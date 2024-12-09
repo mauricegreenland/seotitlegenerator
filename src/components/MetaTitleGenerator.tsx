@@ -91,7 +91,7 @@ function MetaTitleGenerator() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 py-4 sm:py-6">
         {/* Header Section */}
         <div className="text-center mb-8 sm:mb-12">
-          <h1 className="text-3xl sm:text-5xl font-bold mb-3 sm:mb-4 text-custom-darkest">Meta Title Generator:</h1>
+          <h1 className="text-3xl sm:text-5xl font-bold mb-3 sm:mb-4 text-custom-darkest">Meta Title Generator</h1>
           <h2 className="text-2xl sm:text-3xl mb-6 sm:mb-8 text-custom-dark-gray">Free (AI-Powered) SEO Titles</h2>
           <p className="text-lg sm:text-xl leading-relaxed max-w-3xl mx-auto text-custom-medium-gray">
             Want more traffic from search engines? Get perfect meta titles for your content in seconds with AI-powered suggestions.
